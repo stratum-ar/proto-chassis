@@ -7,3 +7,11 @@ All models are available as Blender `.blend` files, with additional exports in `
 
 ## Naming convention
 Each new iteration is named with the next name of a Greek letter - `alpha`, `beta`, `gamma`, ...
+
+## Changelog
+
+### Beta
+Increased tolerances to decrease Pi and lens abuse, increased the distance between lens and Pi.
+
+### Alpha
+Basic holder for the lens and Pi.

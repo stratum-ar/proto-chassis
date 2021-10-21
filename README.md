@@ -10,6 +10,9 @@ Each new iteration is named with the next name of a Greek letter - `alpha`, `bet
 
 ## Changelog
 
+### Gamma
+Added an element to hold the transparent plastic/glass sheet.
+
 ### Beta
 Increased tolerances to decrease Pi and lens abuse, increased the distance between lens and Pi.
 

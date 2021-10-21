@@ -10,6 +10,9 @@ Each new iteration is named with the next name of a Greek letter - `alpha`, `bet
 
 ## Changelog
 
+### Delta
+Started again from Beta, added a revised sheet holder with minimum overhangs, reduced overall volume.
+
 ### Gamma
 Added an element to hold the transparent plastic/glass sheet.
 
